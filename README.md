@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm RAVAKINIAINA</h1>
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
 
+- 🔭 I’m currently working on **school project**
+
+- 🌱 I’m currently learning **Design UX/UI**
+
+- 💬 Ask me about **I like React Js framework**
+
+- 📫 How to reach me **ravakiniainatokyhary@gmail.com**
+
+- 📄 Know about my experiences [3rd year of bachelor's degree in computer science](3rd year of bachelor's degree in computer science)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ravakiniaina_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravakiniaina_t" height="30" width="40" /></a>
