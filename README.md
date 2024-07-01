@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **school project**
 
-- 🌱 I’m currently learning **Design UX/UI**
-
-- 💬 Ask me about **I like React Js framework**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **ravakiniainatokyhary@gmail.com**
 
