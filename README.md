@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school project**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Data and AI**
 
 - 📫 How to reach me **ravakiniainatokyhary@gmail.com**
 
